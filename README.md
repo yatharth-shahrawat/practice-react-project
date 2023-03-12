@@ -1,6 +1,7 @@
 ## Cocktails Menu
 
 A React practice fun project that displays different drinks by fetching the menu from an API whenever user searches for a drink by typing.
+_Check out the live site of the project here [Drinks Project](https://example.com)_
 
 ## Installation and Setup Instructions
 
@@ -17,9 +18,3 @@ To Run Test Suite:
 To Start Server:
 
 `npm start`
-
-#### CRA Fix
-
-```
-"build": "CI= react-scripts build",
-```
